@@ -1,7 +1,9 @@
 *.png
 *.jpg
 /Brain_Tumor_MRI_dataset/Testing
+/Brain_Tumor_MRI_dataset/validate
 /Brain_Tumor_MRI_dataset/Training
 /Chest_X_Ray_dataset/COVID
 /Chest_X_Ray_dataset/NORMAL
 /Chest_X_Ray_dataset/PNEUMONIA
+*.pt
