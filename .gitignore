@@ -7,3 +7,6 @@
 /Chest_X_Ray_dataset/NORMAL
 /Chest_X_Ray_dataset/PNEUMONIA
 *.pt
+/Chest_X_Ray_dataset/VALIDATE
+/Chest_X_Ray_dataset/TRAIN
+/Chest_X_Ray_dataset/TEST
